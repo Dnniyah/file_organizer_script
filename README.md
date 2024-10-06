@@ -41,5 +41,5 @@ If you have any questions or suggestions, feel free to reach out:
 
 Email: Dnia.Anwar@outlook.com
 LinkedIn: https://tinyurl.com/5a9t7b9d 
-)
+
 Thank you for checking out this project!
